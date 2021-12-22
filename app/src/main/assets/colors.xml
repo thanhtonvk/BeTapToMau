@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="a">#80FFFFFF</color>
+    <color name="b">#80D50000</color>
+    <color name="c">#80C51162</color>
+    <color name="d">#80AA00FF</color>
+    <color name="e">#806200EA</color>
+    <color name="g">#80304FFE</color>
+    <color name="h">#800091EA</color>
+    <color name="k">#8000B8D4</color>
+    <color name="l">#8000BFA5</color>
+    <color name="m">#8000C853</color>
+    <color name="n">#8064DD17</color>
+    <color name="o">#80FFD600</color>
+    <color name="p">#80FFAB00</color>
+    <color name="q">#80FF6D00</color>
+    <color name="r">#80000000</color>
+    <color name="t">#80E57373</color>
+</resources>
